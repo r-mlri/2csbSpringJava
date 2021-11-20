@@ -1,5 +1,5 @@
-package com.csb.SampleFullstack.repository;
-import com.csb.SampleFullstack.entity.Employee;
+package com.csb.SampleFullstack;
+import com.csb.SampleFullstack.Employee;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,4 +1,4 @@
-package com.csb.SampleFullstack.entity;
+package com.csb.SampleFullstack;
 
 public class Employee {
     private int employee_id;

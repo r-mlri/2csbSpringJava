@@ -1,7 +1,7 @@
-package com.csb.SampleFullstack.controller;
+package com.csb.SampleFullstack;
 
-import com.csb.SampleFullstack.entity.Employee;
-import com.csb.SampleFullstack.repository.EmployeeRepo;
+import com.csb.SampleFullstack.Employee;
+import com.csb.SampleFullstack.EmployeeRepo;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;
