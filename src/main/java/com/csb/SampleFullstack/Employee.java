@@ -1,5 +1,9 @@
 package com.csb.SampleFullstack;
 
+import javax.persistence.*;
+
+@Entity
+@Table(name = "tb1_employee")
 public class Employee {
     private int employee_id;
     private String name;
