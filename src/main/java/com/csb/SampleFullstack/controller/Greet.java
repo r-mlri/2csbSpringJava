@@ -1,4 +1,4 @@
-package com.csb.SampleFullstack;
+package com.csb.SampleFullstack.controller;
 
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.RestController;

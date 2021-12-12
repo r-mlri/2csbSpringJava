@@ -1,4 +1,4 @@
-package com.csb.SampleFullstack;
+package com.csb.SampleFullstack.employee;
 
 import javax.persistence.*;
 

@@ -1,4 +1,4 @@
-package com.csb.SampleFullstack;
+package com.csb.SampleFullstack.controller;
 
 import com.csb.SampleFullstack.Employee;
 import com.csb.SampleFullstack.EmployeeRepo;
